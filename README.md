@@ -1,3 +1,9 @@
+[![codecov](https://codecov.io/gh/mikenthiwa/book-api2/branch/master/graph/badge.svg)](https://codecov.io/gh/mikenthiwa/book-api2)
+<a href="https://codecov.io/gh/mikenthiwa/book-api2">
+  <img src="https://codecov.io/gh/mikenthiwa/book-api2/branch/master/graph/badge.svg" />
+</a>
+.. image:: https://codecov.io/gh/mikenthiwa/book-api2/branch/master/graph/badge.svg
+  :target: https://codecov.io/gh/mikenthiwa/book-api2
 # book-api2
 
 Hello-Books is a simple api that helps manage a library and its processes like stocking,
