@@ -7,9 +7,10 @@ install:
   - pip install codecov
 
 # run scripts
-scripts:
+script:
   - coverage run -m unittest discover -s tests/
   - py.test -v && coverage html
+
 
 after_success:
   - codecov
